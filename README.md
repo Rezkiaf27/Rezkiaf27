@@ -1,4 +1,5 @@
 **##About Me:**
+
 Gambaran Profesional
 
 Saya adalah mahasiswa Teknik Informatika yang bersemangat dan pengembang web yang berdedikasi dengan fokus kuat pada pembuatan pengalaman digital yang modern, responsif, dan ramah pengguna. Saya berspesialisasi dalam pengembangan frontend dan terus berupaya meningkatkan keterampilan saya dalam Python, AI, dan teknologi web tingkat lanjut.
